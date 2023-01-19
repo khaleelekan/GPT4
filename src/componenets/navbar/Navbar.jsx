@@ -1,7 +1,7 @@
-import React, {useState} from 'react'
-import {RiMenu3Line,  RiCloseLine } from 'react-icons/ri'
-import logo from '../../gpt3 aasets/GPT-3.png'
-import './navbar.css'
+import React, {useState} from 'react';
+import {RiMenu3Line,  RiCloseLine } from 'react-icons/ri';
+import logo from '../../gpt3 aasets/GPT-3.png';
+import './navbar.css';
 
 const Menu = () => (
   <>
@@ -52,4 +52,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Navbar;
